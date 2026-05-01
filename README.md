@@ -46,13 +46,10 @@ python-dotenv: 1.0.0
 
 > **Tip:** You can auto-generate a beautiful project mockup image using the **Screenshot** button above!
 
-<p align="center">
-  <img src="https://via.placeholder.com/800x400?text=Main+Application+View" alt="Main Application View" width="80%"/>
-</p>
+<img width="1241" height="601" alt="image" src="https://github.com/user-attachments/assets/c7a275f2-e8c6-4b51-9d86-a48637f1f997" />
 
-<p align="center">
-  <img src="https://via.placeholder.com/800x400?text=Feature+Showcase" alt="Feature Showcase" width="80%"/>
-</p>
+<img width="563" height="722" alt="image" src="https://github.com/user-attachments/assets/f5f92f5d-2b9d-44b7-96ed-a66966c9b198" />
+
 
 ## 📁 Project Structure
 
