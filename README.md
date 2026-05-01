@@ -1,7 +1,7 @@
 # Binance-Futures-Testnet-Trading-Bot
 
 ![GitHub stars](https://img.shields.io/github/stars/RachitSrivas/Binance-Futures-Testnet-Trading-Bot?style=for-the-badge&logo=github) ![GitHub forks](https://img.shields.io/github/forks/RachitSrivas/Binance-Futures-Testnet-Trading-Bot?style=for-the-badge&logo=github) ![GitHub issues](https://img.shields.io/github/issues/RachitSrivas/Binance-Futures-Testnet-Trading-Bot?style=for-the-badge&logo=github) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
+ 
 ## 📑 Table of Contents
 
 - [Description](#description)
