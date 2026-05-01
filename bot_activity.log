@@ -1,0 +1,22 @@
+2026-05-01 15:43:59,652 - TradingBot - DEBUG - Binance client successfully initialized.
+2026-05-01 15:43:59,652 - TradingBot - INFO - Preparing to place MARKET BUY order for 0.01 BTCUSDT
+2026-05-01 15:44:00,200 - TradingBot - ERROR - Binance API Error: Status Code 401 - Invalid API-key, IP, or permissions for action
+2026-05-01 15:44:09,492 - TradingBot - DEBUG - Binance client successfully initialized.
+2026-05-01 15:44:09,493 - TradingBot - INFO - Preparing to place LIMIT SELL order for 0.01 BTCUSDT
+2026-05-01 15:44:09,973 - TradingBot - ERROR - Binance API Error: Status Code 401 - Invalid API-key, IP, or permissions for action
+2026-05-01 15:57:21,554 - TradingBot - DEBUG - Binance client successfully initialized.
+2026-05-01 15:57:21,558 - TradingBot - INFO - Preparing to place MARKET BUY order for 0.01 BTCUSDT
+2026-05-01 15:57:22,050 - TradingBot - INFO - Order Success! Order ID: 13096191263
+2026-05-01 15:57:22,050 - TradingBot - DEBUG - Full response: {'orderId': 13096191263, 'symbol': 'BTCUSDT', 'status': 'NEW', 'clientOrderId': 'VS0s4iptbgHfyZA2ROnnDR', 'price': '0.00', 'avgPrice': '0.00', 'origQty': '0.0100', 'executedQty': '0.0000', 'cumQty': '0.0000', 'cumQuote': '0.000000', 'timeInForce': 'GTC', 'type': 'MARKET', 'reduceOnly': False, 'closePosition': False, 'side': 'BUY', 'positionSide': 'BOTH', 'stopPrice': '0.00', 'workingType': 'CONTRACT_PRICE', 'priceProtect': False, 'origType': 'MARKET', 'priceMatch': 'NONE', 'selfTradePreventionMode': 'EXPIRE_MAKER', 'goodTillDate': 0, 'updateTime': 1777631243289}
+2026-05-01 15:57:29,376 - TradingBot - DEBUG - Binance client successfully initialized.
+2026-05-01 15:57:29,377 - TradingBot - INFO - Preparing to place LIMIT SELL order for 0.01 BTCUSDT
+2026-05-01 15:57:29,882 - TradingBot - INFO - Order Success! Order ID: 13096191629
+2026-05-01 15:57:29,883 - TradingBot - DEBUG - Full response: {'orderId': 13096191629, 'symbol': 'BTCUSDT', 'status': 'NEW', 'clientOrderId': 'ZkHWqwbiSLBp1QHjhkgRJK', 'price': '90000.00', 'avgPrice': '0.00', 'origQty': '0.0100', 'executedQty': '0.0000', 'cumQty': '0.0000', 'cumQuote': '0.000000', 'timeInForce': 'GTC', 'type': 'LIMIT', 'reduceOnly': False, 'closePosition': False, 'side': 'SELL', 'positionSide': 'BOTH', 'stopPrice': '0.00', 'workingType': 'CONTRACT_PRICE', 'priceProtect': False, 'origType': 'LIMIT', 'priceMatch': 'NONE', 'selfTradePreventionMode': 'EXPIRE_MAKER', 'goodTillDate': 0, 'updateTime': 1777631251118}
+2026-05-01 16:11:47,213 - TradingBot - DEBUG - Binance client successfully initialized.
+2026-05-01 16:11:47,213 - TradingBot - INFO - Preparing MARKET BUY order for 0.01 BTCUSDT
+2026-05-01 16:11:48,138 - TradingBot - INFO - Order Success! Order ID: 13096224663
+2026-05-01 16:11:48,139 - TradingBot - DEBUG - Full response: {'orderId': 13096224663, 'symbol': 'BTCUSDT', 'status': 'NEW', 'clientOrderId': '71kdAmRyKiquYSDWRnTszd', 'price': '0.00', 'avgPrice': '0.00', 'origQty': '0.0100', 'executedQty': '0.0000', 'cumQty': '0.0000', 'cumQuote': '0.000000', 'timeInForce': 'GTC', 'type': 'MARKET', 'reduceOnly': False, 'closePosition': False, 'side': 'BUY', 'positionSide': 'BOTH', 'stopPrice': '0.00', 'workingType': 'CONTRACT_PRICE', 'priceProtect': False, 'origType': 'MARKET', 'priceMatch': 'NONE', 'selfTradePreventionMode': 'EXPIRE_MAKER', 'goodTillDate': 0, 'updateTime': 1777632109381}
+2026-05-01 16:16:14,928 - TradingBot - DEBUG - Binance client successfully initialized.
+2026-05-01 16:16:14,928 - TradingBot - INFO - Preparing MARKET BUY order for 0.01 BTCUSDT
+2026-05-01 16:16:15,370 - TradingBot - INFO - Order Success! Order ID: 13096234017
+2026-05-01 16:16:15,371 - TradingBot - DEBUG - Full response: {'orderId': 13096234017, 'symbol': 'BTCUSDT', 'status': 'NEW', 'clientOrderId': '1rQ1M12sy7NAPGasuE6trD', 'price': '0.00', 'avgPrice': '0.00', 'origQty': '0.0100', 'executedQty': '0.0000', 'cumQty': '0.0000', 'cumQuote': '0.000000', 'timeInForce': 'GTC', 'type': 'MARKET', 'reduceOnly': False, 'closePosition': False, 'side': 'BUY', 'positionSide': 'BOTH', 'stopPrice': '0.00', 'workingType': 'CONTRACT_PRICE', 'priceProtect': False, 'origType': 'MARKET', 'priceMatch': 'NONE', 'selfTradePreventionMode': 'EXPIRE_MAKER', 'goodTillDate': 0, 'updateTime': 1777632376622}
