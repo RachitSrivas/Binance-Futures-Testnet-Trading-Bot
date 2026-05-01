@@ -25,7 +25,7 @@ This project was built to demonstrate clean code architecture, API interaction, 
 ## 📁 Project Structure
 
 trading_bot/
-│
+│ 
 ├── bot/
 │   ├── __init__.py
 │   ├── client.py           # Initializes the Binance Testnet connection
